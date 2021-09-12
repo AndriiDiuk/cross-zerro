@@ -5,7 +5,7 @@ class Footer extends React.Component {
 	render() {
 		return (
 			<footer className="conteiner">
-				Footer
+
 			</footer >
 		)
 	}
