@@ -1,0 +1,22 @@
+.resetBtn {
+	background-image: linear-gradient(to right, #673ab7 0%, #512da8 51%, #673ab7 100%);
+}
+.resetBtn {
+	margin: 10px;
+	padding: 15px 45px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: white;
+	box-shadow: 0 0 40px #512da8;
+	border-radius: 10px;
+	display: block;
+	margin: 0 auto;
+}
+
+.resetBtn:hover {
+	background-position: right center; /* change the direction of the change here */
+	color: #fff;
+	text-decoration: none;
+}
