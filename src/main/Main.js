@@ -71,7 +71,7 @@ class Main extends React.Component {
 	isNoWinner = () => {
 		if (!this.state.squares.includes(null)) {
 			setTimeout(() => {
-				alert('No Winner')
+				alert('No Winner, replay')
 				this.setState({ squares: Array(9).fill(null) });
 				this.setState({ count: 0 });
 			}, 100)
