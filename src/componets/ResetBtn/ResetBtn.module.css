@@ -20,3 +20,8 @@
 	color: #fff;
 	text-decoration: none;
 }
+@media (max-width: 480px) {
+	.resetBtn {
+		padding: 15px 25px;
+	}
+}

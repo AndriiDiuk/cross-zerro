@@ -52,14 +52,14 @@
 }
 .score > div {
 	display: block;
-	padding: 30px 50px;
+	padding: 30px 10px;
 	color: #c49dff;
-	font-size: 20px;
+	font-size: 18px;
 }
 .score > div > span {
-	font-size: 50px;
+	font-size: 40px;
 	color: #ffffff;
-	margin: 0 20px;
+	margin: 0 10px;
 }
 @media (max-width: 480px) {
 	.game-field {

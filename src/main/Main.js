@@ -97,7 +97,7 @@ class Main extends React.Component {
 						<div>
 							X:<span>{this.state.X}</span>
 						</div>
-						<div>Score</div>
+						<div><ResetBtn onClick={this.resetGame} /></div>
 						<div>
 							O:<span>{this.state.O}</span>
 						</div>
@@ -123,7 +123,7 @@ class Main extends React.Component {
 							onChange={this.selectXO}
 						/>
 					</div>
-					<ResetBtn onClick={this.resetGame} />
+
 				</section>
 			</main>
 		)
