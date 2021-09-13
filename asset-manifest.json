@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cross-zerro/static/css/main.0ed4c653.chunk.css",
-    "main.js": "/cross-zerro/static/js/main.ac112ad1.chunk.js",
-    "main.js.map": "/cross-zerro/static/js/main.ac112ad1.chunk.js.map",
+    "main.js": "/cross-zerro/static/js/main.3f3a911d.chunk.js",
+    "main.js.map": "/cross-zerro/static/js/main.3f3a911d.chunk.js.map",
     "runtime-main.js": "/cross-zerro/static/js/runtime-main.077a7e5b.js",
     "runtime-main.js.map": "/cross-zerro/static/js/runtime-main.077a7e5b.js.map",
     "static/js/2.d05b3a70.chunk.js": "/cross-zerro/static/js/2.d05b3a70.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.077a7e5b.js",
     "static/js/2.d05b3a70.chunk.js",
     "static/css/main.0ed4c653.chunk.css",
-    "static/js/main.ac112ad1.chunk.js"
+    "static/js/main.3f3a911d.chunk.js"
   ]
 }
