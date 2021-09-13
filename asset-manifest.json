@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/cross-zerro/static/css/main.46360c54.chunk.css",
-    "main.js": "/cross-zerro/static/js/main.bd5d55d9.chunk.js",
-    "main.js.map": "/cross-zerro/static/js/main.bd5d55d9.chunk.js.map",
+    "main.css": "/cross-zerro/static/css/main.0ed4c653.chunk.css",
+    "main.js": "/cross-zerro/static/js/main.3f3a911d.chunk.js",
+    "main.js.map": "/cross-zerro/static/js/main.3f3a911d.chunk.js.map",
     "runtime-main.js": "/cross-zerro/static/js/runtime-main.077a7e5b.js",
     "runtime-main.js.map": "/cross-zerro/static/js/runtime-main.077a7e5b.js.map",
     "static/js/2.d05b3a70.chunk.js": "/cross-zerro/static/js/2.d05b3a70.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.240bd4c6.chunk.js": "/cross-zerro/static/js/3.240bd4c6.chunk.js",
     "static/js/3.240bd4c6.chunk.js.map": "/cross-zerro/static/js/3.240bd4c6.chunk.js.map",
     "index.html": "/cross-zerro/index.html",
-    "static/css/main.46360c54.chunk.css.map": "/cross-zerro/static/css/main.46360c54.chunk.css.map",
+    "static/css/main.0ed4c653.chunk.css.map": "/cross-zerro/static/css/main.0ed4c653.chunk.css.map",
     "static/js/2.d05b3a70.chunk.js.LICENSE.txt": "/cross-zerro/static/js/2.d05b3a70.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.077a7e5b.js",
     "static/js/2.d05b3a70.chunk.js",
-    "static/css/main.46360c54.chunk.css",
-    "static/js/main.bd5d55d9.chunk.js"
+    "static/css/main.0ed4c653.chunk.css",
+    "static/js/main.3f3a911d.chunk.js"
   ]
 }
