@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/cross-zerro/static/css/main.48f15a68.chunk.css",
-    "main.js": "/cross-zerro/static/js/main.1f061a86.chunk.js",
-    "main.js.map": "/cross-zerro/static/js/main.1f061a86.chunk.js.map",
+    "main.css": "/cross-zerro/static/css/main.c73d1d8c.chunk.css",
+    "main.js": "/cross-zerro/static/js/main.56a53e77.chunk.js",
+    "main.js.map": "/cross-zerro/static/js/main.56a53e77.chunk.js.map",
     "runtime-main.js": "/cross-zerro/static/js/runtime-main.077a7e5b.js",
     "runtime-main.js.map": "/cross-zerro/static/js/runtime-main.077a7e5b.js.map",
     "static/js/2.d05b3a70.chunk.js": "/cross-zerro/static/js/2.d05b3a70.chunk.js",
@@ -10,17 +10,14 @@
     "static/js/3.240bd4c6.chunk.js": "/cross-zerro/static/js/3.240bd4c6.chunk.js",
     "static/js/3.240bd4c6.chunk.js.map": "/cross-zerro/static/js/3.240bd4c6.chunk.js.map",
     "index.html": "/cross-zerro/index.html",
-    "static/css/main.48f15a68.chunk.css.map": "/cross-zerro/static/css/main.48f15a68.chunk.css.map",
+    "static/css/main.c73d1d8c.chunk.css.map": "/cross-zerro/static/css/main.c73d1d8c.chunk.css.map",
     "static/js/2.d05b3a70.chunk.js.LICENSE.txt": "/cross-zerro/static/js/2.d05b3a70.chunk.js.LICENSE.txt",
-    "static/media/Facebook.e60c150c.svg": "/cross-zerro/static/media/Facebook.e60c150c.svg",
-    "static/media/GitHub.8cebbcb7.svg": "/cross-zerro/static/media/GitHub.8cebbcb7.svg",
-    "static/media/LinkedIn.bdd53234.svg": "/cross-zerro/static/media/LinkedIn.bdd53234.svg",
     "static/media/photo.ae73f958.png": "/cross-zerro/static/media/photo.ae73f958.png"
   },
   "entrypoints": [
     "static/js/runtime-main.077a7e5b.js",
     "static/js/2.d05b3a70.chunk.js",
-    "static/css/main.48f15a68.chunk.css",
-    "static/js/main.1f061a86.chunk.js"
+    "static/css/main.c73d1d8c.chunk.css",
+    "static/js/main.56a53e77.chunk.js"
   ]
 }
