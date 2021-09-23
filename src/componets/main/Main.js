@@ -1,6 +1,6 @@
 import React from 'react';
-import RadioBtn from '../componets/RadioBtn/RadioBtn';
-import ResetBtn from '../componets/ResetBtn/ResetBtn';
+import RadioBtn from '../UI/RadioBtn/RadioBtn';
+import ResetBtn from '../UI/ResetBtn/ResetBtn';
 import './Main.css';
 
 class Main extends React.Component {
@@ -71,7 +71,7 @@ class Main extends React.Component {
 	isNoWinner = () => {
 		if (!this.state.squares.includes(null)) {
 			setTimeout(() => {
-				alert('No Winner, replay')
+				alert('No Winner, Replay')
 				this.setState({ squares: Array(9).fill(null) });
 				this.setState({ count: 0 });
 			}, 100)

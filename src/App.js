@@ -1,9 +1,9 @@
 
 import React from 'react';
-import '../app/App.css';
-import Header from '../header/Header';
-import Main from '../main/Main';
-import Footer from '../footer/Footer';
+import './App.css';
+import Header from './componets/header/Header';
+import Main from './componets/main/Main';
+import Footer from './componets/footer/Footer';
 
 class App extends React.Component {
 	constructor(props) {
