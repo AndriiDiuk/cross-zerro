@@ -16,9 +16,9 @@ class Footer extends React.Component {
 						</div>
 					</div>
 					<div className="social-icons">
-						<a href="https://www.linkedin.com/in/andrii-daneliuk/" target="_blank"><i className='bx bxl-linkedin footer-icon' ></i></a>
-						<a href="https://www.facebook.com/AndriiiDaneliuk" target={'_blank'}><i className='bx bxl-facebook-circle   footer-icon' ></i></a>
-						<a href="https://github.com/AndriiDuk" target="_blank"><i className='bx bxl-github  footer-icon' ></i></a>
+						<a href="https://www.linkedin.com/in/andriidiuk/" target="_blank"><i className='bx bxl-linkedin footer-icon' ></i></a>
+						<a href="https://www.facebook.com/andriidiuk" target={'_blank'}><i className='bx bxl-facebook-circle   footer-icon' ></i></a>
+						<a href="https://github.com/andriidiuk" target="_blank"><i className='bx bxl-github  footer-icon' ></i></a>
 					</div>
 				</div>
 			</footer >
